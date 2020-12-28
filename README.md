@@ -41,7 +41,7 @@
 - [Current Events and their relationship to today's events](#current-events-and-their-relationship-to-todays-events)
     - [How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE](#how-to-recognize-typical-russian-sabotage-cause-confusion-brexit-etc-here)
     - [How to understand Brexit HERE](#how-to-understand-brexit-here)
-    - [How to the Yellow Vests in France HERE](#how-to-the-yellow-vests-in-france-here)
+    - [How to understand the Yellow Vests in France HERE](#how-to-understand-the-yellow-vests-in-france-here)
     - [How understand the anti-fracking protests by young people and indigenous peoples HERE](#how-understand-the-anti-fracking-protests-by-young-people-and-indigenous-peoples-here)
     - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agraculture HERE](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agraculture-here)
 - [Economics, Fossil Fuels, Money, Power](#economics-fossil-fuels-money-power)
@@ -56,10 +56,12 @@
 - [What is the role of local officials and public health in the lockdowns](#what-is-the-role-of-local-officials-and-public-health-in-the-lockdowns)
 - [What is fascism and what are examples of it in the past](#what-is-fascism-and-what-are-examples-of-it-in-the-past)
 - [What is Eugenics and who in history has involvement](#what-is-eugenics-and-who-in-history-has-involvement)
-- [Who are famous people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
-- [Who are news people who appear to be supporting lockdowns and healhy young people being injected](#who-are-news-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
-- [Who are famous people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected-1)
-- [Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people](#who-are-famous-people-who-are-questioning-the-whole-narriative-of-lockdowns-and-injecting-young-healthy-people)
+- [Who is with us - who is against lockdowns and injections](#who-is-with-us---who-is-against-lockdowns-and-injections)
+  - [Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people](#who-are-famous-people-who-are-questioning-the-whole-narriative-of-lockdowns-and-injecting-young-healthy-people)
+- [Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age](#who-apparently-is-a-fascist-in-favor-of-lockdowns-and-injections-of-young-healthy-of-reproductive-age)
+  - [Who are famous medical, research and data scientists people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-medical-research-and-data-scientists-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
+  - [Who are news people who appear to be supporting lockdowns and healhy young people being injected](#who-are-news-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
+- [Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-media-and-entertainment-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
 - [What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected](#what-media-sources-are-untrustworty-because-they-are-encouraging-lockdowns-and-healthy-young-people-to-be-injected)
 - [What messages is the media sending that we feel are incorrect](#what-messages-is-the-media-sending-that-we-feel-are-incorrect)
 - [How you can maintain stability and normalcy and your mental health during these trying times](#how-you-can-maintain-stability-and-normalcy-and-your-mental-health-during-these-trying-times)
@@ -191,7 +193,7 @@
 # Current Events and their relationship to today's events
 ### How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE  
 ### How to understand Brexit HERE  
-### How to the Yellow Vests in France HERE  
+### How to understand the Yellow Vests in France HERE  
 ### How understand the anti-fracking protests by young people and indigenous peoples HERE  
 ### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agraculture HERE  
 
@@ -216,13 +218,20 @@
 # What is Eugenics and who in history has involvement  
 - 
 - 
-
-# Who are famous people who appear to be supporting lockdowns and healhy young people being injected
-- Nate Silver - FiveThirtyEight.com
-- The Atlantic Monthly - Steve Jobs's wife Powell owns the Atlantic Monthly
+# Who is with us - who is against lockdowns and injections  
+## Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people
+- Ian Brown (British Rocker Stone Roses and solo)
+- Van Morrison (British Rocker 1960's to now)  
+- Eric Clapton (British Rocker 1960's to now)  
 - 
 
-# Who are news people who appear to be supporting lockdowns and healhy young people being injected
+# Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age  
+## Who are famous medical, research and data scientists people who appear to be supporting lockdowns and healhy young people being injected
+- Nate Silver - FiveThirtyEight.com
+- 
+
+## Who are news people who appear to be supporting lockdowns and healhy young people being injected
+- The Atlantic Monthly - Steve Jobs's wife Powell owns the Atlantic Monthly
 - Rachel Maddow  
 - Young Turks  
 - DailyKos  
@@ -232,17 +241,11 @@
 - TMZ  
 - Rolling Stone  
  
-# Who are famous people who appear to be supporting lockdowns and healhy young people being injected
+# Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected
 - Madonna
 - AOC
 - 
 
-
-# Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people
-- Ian Brown (British Rocker Stone Roses and solo)
-- Van Morrison (British Rocker 1960's to now)  
-- Eric Clapton (British Rocker 1960's to now)  
-- 
 
 # What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected
 - WBUR
