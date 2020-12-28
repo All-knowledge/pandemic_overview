@@ -292,6 +292,7 @@
 
 ## Dystopian Books (and sometimes movies and TV series)
 | Book | Author | Relevant Lessons |  
+| ---- |---- |---- |  
 | Animal Farm | name | classic |  
 | Brave New World | name | classic |  
 | 1984 | name | classic |  
@@ -300,6 +301,8 @@
 
 ## Dystopian movies and TV series
 | Show | Author | relevance | 
+| ---- |---- |---- |  
+| 12 Monkey's | who | why |  
 
 ## What famous people had words of wisdom we might want to review today  
 
