@@ -8,11 +8,13 @@
 - [FAQ Frequently Asked Questions](#faq-frequently-asked-questions)
   - [What do we know?](#what-do-we-know)
   - [What do we not know?](#what-do-we-not-know)
+  - [What is issues with PCR testing and "cases"](#what-is-issues-with-pcr-testing-and-cases)
+  - [What would a multi-year chart of "Deaths by Cause and Age" show us and where is that data?](#what-would-a-multi-year-chart-of-deaths-by-cause-and-age-show-us-and-where-is-that-data)
   - [What are some simple questions that we think do not make any sense](#what-are-some-simple-questions-that-we-think-do-not-make-any-sense)
   - [What items do we consider true, and why?](#what-items-do-we-consider-true-and-why)
   - [What items do we consider false, and why?](#what-items-do-we-consider-false-and-why)
   - [Who are the participants, the cast members in this story?](#who-are-the-participants-the-cast-members-in-this-story)
-  - [What role does history have to do with this pandemic](#what-role-does-history-have-to-do-with-this-pandemic)
+  - [What are some historical events we might want to recall when considering this pandemic](#what-are-some-historical-events-we-might-want-to-recall-when-considering-this-pandemic)
   - [What is pathogen research, who funds it and how much?](#what-is-pathogen-research-who-funds-it-and-how-much)
   - [Why is Bill Gates seemingly involved in many parts of this story](#why-is-bill-gates-seemingly-involved-in-many-parts-of-this-story)
   - [What was Event 201, a multi-day multi-country pandemic preparedless simulation October 2019](#what-was-event-201-a-multi-day-multi-country-pandemic-preparedless-simulation-october-2019)
@@ -50,7 +52,7 @@
 - [Economics, Fossil Fuels, Pharma, Money, Power](#economics-fossil-fuels-pharma-money-power)
   - [What are the economic effects of lockdowns](#what-are-the-economic-effects-of-lockdowns)
   - [How does the lockdowns help and encourage large business but destroy small business](#how-does-the-lockdowns-help-and-encourage-large-business-but-destroy-small-business)
-    - [What is the WEF World Economic Forum and Klaus Schwab HERE](#what-is-the-wef-world-economic-forum-and-klaus-schwab-here)
+  - [What is the WEF World Economic Forum and Klaus Schwab HERE](#what-is-the-wef-world-economic-forum-and-klaus-schwab-here)
     - [What is the WEF World Economic Forum and this proposed / planned Great Reset HERE](#what-is-the-wef-world-economic-forum-and-this-proposed--planned-great-reset-here)
     - [What is the WEF World Economic Forum event at Davos, who goes, anyone from my area?](#what-is-the-wef-world-economic-forum-event-at-davos-who-goes-anyone-from-my-area)
     - [What is the WEF World Economic Forum relationship to vaccines](#what-is-the-wef-world-economic-forum-relationship-to-vaccines)
@@ -114,6 +116,17 @@
 - 
 - 
 
+## What is issues with PCR testing and "cases"    
+- PCR "cases" indicates the presence of old inert remnants of inactive pieces of virus  
+- The PCR test replicates, amplifies, multiplies the sample X times. 30-35 cyles is good, above will give lots of false postive "cases" - but they are false positive - if the PCR test was re-run at 28 or 30 it will likely be negative.  
+- PCR testing has an interesting side effect in that the testing organization obtains your full DNA profile  
+- 
+
+## What would a multi-year chart of "Deaths by Cause and Age" show us and where is that data?  
+- The CDC last updated the data in 2018 - we have no data from 2019 or 2020 - no cause of death by age.
+- This is important because how will we know when the vaccines are effective?
+- Why is this simple data being withheld?
+
 ## What are some simple questions that we think do not make any sense
 - Old infirm w/ comorbidity are dying. So Why inject young healthy of reproductive age?  
 - If the supermarket and many stores and business can be open, why not the library?  
@@ -130,7 +143,7 @@
 - 
 - 
 
-## What role does history have to do with this pandemic
+## What are some historical events we might want to recall when considering this pandemic
 - 
 - 
 
@@ -208,7 +221,7 @@
 # Economics, Fossil Fuels, Pharma, Money, Power
 ## What are the economic effects of lockdowns  
 ## How does the lockdowns help and encourage large business but destroy small business  
-### What is the WEF World Economic Forum and Klaus Schwab HERE  
+## What is the WEF World Economic Forum and Klaus Schwab HERE  
 ### What is the WEF World Economic Forum and this proposed / planned Great Reset HERE  
 ### What is the WEF World Economic Forum event at Davos, who goes, anyone from my area?  
 ### What is the WEF World Economic Forum relationship to vaccines  
