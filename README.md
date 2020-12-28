@@ -84,6 +84,8 @@
     - [How to install vscode on your computer HERE](#how-to-install-vscode-on-your-computer-here)
     - [How to set up SSH keys on your computer with vscode HERE](#how-to-set-up-ssh-keys-on-your-computer-with-vscode-here)
     - [How to edit Markdown to format documents (Markdown-Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]](#how-to-edit-markdown-to-format-documents-markdown-cheatsheethttpsgithubcomadam-pmarkdown-herewikimarkdown-cheatsheet)
+    - [How do use branching in GitHub](#how-do-use-branching-in-github)
+    - [How to submit a pull request for someone to accept your submission](#how-to-submit-a-pull-request-for-someone-to-accept-your-submission)
     - [How to use puppeteer to automatically scrape a web page to retrieve data HERE](#how-to-use-puppeteer-to-automatically-scrape-a-web-page-to-retrieve-data-here)
     - [How to buy a $250 chromebook for an awesome development experience HERE](#how-to-buy-a-250-chromebook-for-an-awesome-development-experience-here)
     - [How to know about how the government is monitoring your Apple computer via the M2 chip HERE](#how-to-know-about-how-the-government-is-monitoring-your-apple-computer-via-the-m2-chip-here)
@@ -324,6 +326,8 @@ Here are some suggestions, please add to this list:
 ### How to install vscode on your computer HERE  
 ### How to set up SSH keys on your computer with vscode HERE  
 ### How to edit Markdown to format documents (Markdown-Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+### How do use branching in GitHub  
+### How to submit a pull request for someone to accept your submission  
 ### How to use puppeteer to automatically scrape a web page to retrieve data HERE  
 ### How to buy a $250 chromebook for an awesome development experience HERE  
 ### How to know about how the government is monitoring your Apple computer via the M2 chip HERE  
