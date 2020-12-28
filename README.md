@@ -35,29 +35,29 @@
 - [What is narrative control and how is it used to shape public opinion](#what-is-narrative-control-and-how-is-it-used-to-shape-public-opinion)
 - [Government Monitoring and Control](#government-monitoring-and-control)
   - [Social Media](#social-media)
-    - [How to understand the ways Facebook filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-facebook-filters-throttles-and-amplifies-communications-here)
-    - [How to understand the ways Twitter filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-twitter-filters-throttles-and-amplifies-communications-here)
-    - [How to understand the ways Reddit filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-reddit-filters-throttles-and-amplifies-communications-here)
+    - [How to understand the ways Facebook filters, throttles and amplifies communications](#how-to-understand-the-ways-facebook-filters-throttles-and-amplifies-communications)
+    - [How to understand the ways Twitter filters, throttles and amplifies communications](#how-to-understand-the-ways-twitter-filters-throttles-and-amplifies-communications)
+    - [How to understand the ways Reddit filters, throttles and amplifies communications](#how-to-understand-the-ways-reddit-filters-throttles-and-amplifies-communications)
   - [Person, identity, and location tracking](#person-identity-and-location-tracking)
-    - [How does ad tracking and cookies work across the web HERE](#how-does-ad-tracking-and-cookies-work-across-the-web-here)
+    - [How does ad tracking and cookies work across the web](#how-does-ad-tracking-and-cookies-work-across-the-web)
   - [What are the all-encompassing data vacuums by Palantir and Oracle and Cambridge Analytica](#what-are-the-all-encompassing-data-vacuums-by-palantir-and-oracle-and-cambridge-analytica)
     - [What is the Palantir dashboard and who in your local area is viewing it](#what-is-the-palantir-dashboard-and-who-in-your-local-area-is-viewing-it)
-    - [What was Cambridge Analytica - what is that whole scandal about? HERE](#what-was-cambridge-analytica---what-is-that-whole-scandal-about-here)
+    - [What was Cambridge Analytica - what is that whole scandal about?](#what-was-cambridge-analytica---what-is-that-whole-scandal-about)
 - [Current Events and their relationship to today's events](#current-events-and-their-relationship-to-todays-events)
-    - [How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE](#how-to-recognize-typical-russian-sabotage-cause-confusion-brexit-etc-here)
-    - [How to understand Brexit HERE](#how-to-understand-brexit-here)
-    - [How to understand the Yellow Vests in France HERE](#how-to-understand-the-yellow-vests-in-france-here)
-    - [How understand the anti-fracking protests by young people and indigenous peoples HERE](#how-understand-the-anti-fracking-protests-by-young-people-and-indigenous-peoples-here)
-    - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture HERE](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agriculture-here)
+    - [How to recognize typical Russian sabotage, cause confusion (Brexit etc)](#how-to-recognize-typical-russian-sabotage-cause-confusion-brexit-etc)
+    - [How to understand Brexit](#how-to-understand-brexit)
+    - [How to understand the Yellow Vests in France](#how-to-understand-the-yellow-vests-in-france)
+    - [How understand the anti-fracking protests by young people and indigenous peoples](#how-understand-the-anti-fracking-protests-by-young-people-and-indigenous-peoples)
+    - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agriculture)
 - [Economics, Fossil Fuels, Pharma, Money, Power](#economics-fossil-fuels-pharma-money-power)
   - [What are the economic effects of lockdowns](#what-are-the-economic-effects-of-lockdowns)
   - [How does the lockdowns help and encourage large business but destroy small business](#how-does-the-lockdowns-help-and-encourage-large-business-but-destroy-small-business)
-  - [What is the WEF World Economic Forum and Klaus Schwab HERE](#what-is-the-wef-world-economic-forum-and-klaus-schwab-here)
-    - [What is the WEF World Economic Forum and this proposed / planned Great Reset HERE](#what-is-the-wef-world-economic-forum-and-this-proposed--planned-great-reset-here)
+  - [What is the WEF World Economic Forum and Klaus Schwab](#what-is-the-wef-world-economic-forum-and-klaus-schwab)
+    - [What is the WEF World Economic Forum and this proposed / planned Great Reset](#what-is-the-wef-world-economic-forum-and-this-proposed--planned-great-reset)
     - [What is the WEF World Economic Forum event at Davos, who goes, anyone from my area?](#what-is-the-wef-world-economic-forum-event-at-davos-who-goes-anyone-from-my-area)
     - [What is the WEF World Economic Forum relationship to vaccines](#what-is-the-wef-world-economic-forum-relationship-to-vaccines)
-    - [What is the WEF World Economic Forum relationship with Bill Gates HERE](#what-is-the-wef-world-economic-forum-relationship-with-bill-gates-here)
-    - [What is the WEF World Economic Forum relationship with fossil fuels HERE](#what-is-the-wef-world-economic-forum-relationship-with-fossil-fuels-here)
+    - [What is the WEF World Economic Forum relationship with Bill Gates](#what-is-the-wef-world-economic-forum-relationship-with-bill-gates)
+    - [What is the WEF World Economic Forum relationship with fossil fuels](#what-is-the-wef-world-economic-forum-relationship-with-fossil-fuels)
 - [What is the role of local officials and public health in the lockdowns](#what-is-the-role-of-local-officials-and-public-health-in-the-lockdowns)
 - [What is fascism and what are examples of it in the past](#what-is-fascism-and-what-are-examples-of-it-in-the-past)
 - [What is Eugenics and who in history has involvement](#what-is-eugenics-and-who-in-history-has-involvement)
@@ -75,22 +75,22 @@
   - [Dystopian movies and TV series](#dystopian-movies-and-tv-series)
   - [What famous people had words of wisdom we might want to review today](#what-famous-people-had-words-of-wisdom-we-might-want-to-review-today)
 - [How you can help](#how-you-can-help)
-    - [Join the discord community (HERE)[]](#join-the-discord-community-here)
-    - [How to upload content to be included in our research HERE](#how-to-upload-content-to-be-included-in-our-research-here)
-    - [Help us with research HERE](#help-us-with-research-here)
-  - [Help us with software development HERE](#help-us-with-software-development-here)
-    - [How to look at our project roadmap HERE](#how-to-look-at-our-project-roadmap-here)
-    - [How to help automate data collection HERE](#how-to-help-automate-data-collection-here)
-    - [How to get your computer set up HERE](#how-to-get-your-computer-set-up-here)
-    - [How to install vscode on your computer HERE](#how-to-install-vscode-on-your-computer-here)
-    - [How to set up SSH keys on your computer with vscode HERE](#how-to-set-up-ssh-keys-on-your-computer-with-vscode-here)
+    - [Join the discord community ()[]](#join-the-discord-community-)
+    - [How to upload content to be included in our research](#how-to-upload-content-to-be-included-in-our-research)
+    - [Help us with research](#help-us-with-research)
+  - [Help us with software development](#help-us-with-software-development)
+    - [How to look at our project roadmap](#how-to-look-at-our-project-roadmap)
+    - [How to help automate data collection](#how-to-help-automate-data-collection)
+    - [How to get your computer set up](#how-to-get-your-computer-set-up)
+    - [How to install vscode on your computer](#how-to-install-vscode-on-your-computer)
+    - [How to set up SSH keys on your computer with vscode](#how-to-set-up-ssh-keys-on-your-computer-with-vscode)
     - [How to edit Markdown to format documents (Markdown-Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]](#how-to-edit-markdown-to-format-documents-markdown-cheatsheethttpsgithubcomadam-pmarkdown-herewikimarkdown-cheatsheet)
     - [How do use branching in GitHub](#how-do-use-branching-in-github)
     - [How to submit a pull request for someone to accept your submission](#how-to-submit-a-pull-request-for-someone-to-accept-your-submission)
-    - [How to use puppeteer to automatically scrape a web page to retrieve data HERE](#how-to-use-puppeteer-to-automatically-scrape-a-web-page-to-retrieve-data-here)
-    - [How to buy a $250 chromebook for an awesome development experience HERE](#how-to-buy-a-250-chromebook-for-an-awesome-development-experience-here)
-    - [How to know about how the government is monitoring your Apple computer via the M2 chip HERE](#how-to-know-about-how-the-government-is-monitoring-your-apple-computer-via-the-m2-chip-here)
-    - [How to know about how the government is monitoring your Chromebook HERE](#how-to-know-about-how-the-government-is-monitoring-your-chromebook-here)
+    - [How to use puppeteer to automatically scrape a web page to retrieve data](#how-to-use-puppeteer-to-automatically-scrape-a-web-page-to-retrieve-data)
+    - [How to buy a $250 chromebook for an awesome development experience](#how-to-buy-a-250-chromebook-for-an-awesome-development-experience)
+    - [How to know about how the government is monitoring your Apple computer via the M2 chip](#how-to-know-about-how-the-government-is-monitoring-your-apple-computer-via-the-m2-chip)
+    - [How to know about how the government is monitoring your Chromebook](#how-to-know-about-how-the-government-is-monitoring-your-chromebook)
 
 ## Purpose: Investigate the origins of the COVID-19 pandemic
 
@@ -205,31 +205,31 @@
 
 # Government Monitoring and Control
 ## Social Media  
-### How to understand the ways Facebook filters, throttles and amplifies communications HERE  
-### How to understand the ways Twitter filters, throttles and amplifies communications HERE  
-### How to understand the ways Reddit filters, throttles and amplifies communications HERE  
+### How to understand the ways Facebook filters, throttles and amplifies communications   
+### How to understand the ways Twitter filters, throttles and amplifies communications   
+### How to understand the ways Reddit filters, throttles and amplifies communications   
 ## Person, identity, and location tracking
-### How does ad tracking and cookies work across the web HERE  
+### How does ad tracking and cookies work across the web   
 ## What are the all-encompassing data vacuums by Palantir and Oracle and Cambridge Analytica
 ### What is the Palantir dashboard and who in your local area is viewing it
-### What was Cambridge Analytica - what is that whole scandal about? HERE  
+### What was Cambridge Analytica - what is that whole scandal about?   
 
 # Current Events and their relationship to today's events
-### How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE  
-### How to understand Brexit HERE  
-### How to understand the Yellow Vests in France HERE  
-### How understand the anti-fracking protests by young people and indigenous peoples HERE  
-### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture HERE  
+### How to recognize typical Russian sabotage, cause confusion (Brexit etc)   
+### How to understand Brexit   
+### How to understand the Yellow Vests in France   
+### How understand the anti-fracking protests by young people and indigenous peoples   
+### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture   
 
 # Economics, Fossil Fuels, Pharma, Money, Power
 ## What are the economic effects of lockdowns  
 ## How does the lockdowns help and encourage large business but destroy small business  
-## What is the WEF World Economic Forum and Klaus Schwab HERE  
-### What is the WEF World Economic Forum and this proposed / planned Great Reset HERE  
+## What is the WEF World Economic Forum and Klaus Schwab   
+### What is the WEF World Economic Forum and this proposed / planned Great Reset   
 ### What is the WEF World Economic Forum event at Davos, who goes, anyone from my area?  
 ### What is the WEF World Economic Forum relationship to vaccines  
-### What is the WEF World Economic Forum relationship with Bill Gates HERE  
-### What is the WEF World Economic Forum relationship with fossil fuels HERE  
+### What is the WEF World Economic Forum relationship with Bill Gates   
+### What is the WEF World Economic Forum relationship with fossil fuels   
 
 
 # What is the role of local officials and public health in the lockdowns  
@@ -320,22 +320,22 @@ Here are some suggestions, please add to this list:
 - 
 - 
 
-### Join the discord community (HERE)[]  
-### How to upload content to be included in our research HERE  
-### Help us with research HERE  
+### Join the discord community ()[]  
+### How to upload content to be included in our research   
+### Help us with research   
 
-## Help us with software development HERE  
-### How to look at our project roadmap HERE  
-### How to help automate data collection HERE  
-### How to get your computer set up HERE  
-### How to install vscode on your computer HERE  
-### How to set up SSH keys on your computer with vscode HERE  
+## Help us with software development   
+### How to look at our project roadmap   
+### How to help automate data collection   
+### How to get your computer set up   
+### How to install vscode on your computer   
+### How to set up SSH keys on your computer with vscode   
 ### How to edit Markdown to format documents (Markdown-Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 ### How do use branching in GitHub  
 ### How to submit a pull request for someone to accept your submission  
-### How to use puppeteer to automatically scrape a web page to retrieve data HERE  
-### How to buy a $250 chromebook for an awesome development experience HERE  
-### How to know about how the government is monitoring your Apple computer via the M2 chip HERE  
-### How to know about how the government is monitoring your Chromebook HERE  
+### How to use puppeteer to automatically scrape a web page to retrieve data   
+### How to buy a $250 chromebook for an awesome development experience   
+### How to know about how the government is monitoring your Apple computer via the M2 chip   
+### How to know about how the government is monitoring your Chromebook   
 
 
