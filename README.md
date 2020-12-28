@@ -64,6 +64,7 @@
 - [Who is with us - who is against lockdowns and injections](#who-is-with-us---who-is-against-lockdowns-and-injections)
   - [Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people](#who-are-famous-people-who-are-questioning-the-whole-narriative-of-lockdowns-and-injecting-young-healthy-people)
 - [Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age](#who-apparently-is-a-fascist-in-favor-of-lockdowns-and-injections-of-young-healthy-of-reproductive-age)
+  - [Who locally is now someone who has lost our trust](#who-locally-is-now-someone-who-has-lost-our-trust)
   - [Who are famous medical, research and data scientists people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-medical-research-and-data-scientists-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
   - [Who are news people who appear to be supporting lockdowns and healhy young people being injected](#who-are-news-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
   - [Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-media-and-entertainment-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
@@ -250,6 +251,10 @@
 - 
 
 # Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age  
+## Who locally is now someone who has lost our trust  
+- Healthcare providers - injecting young healthy to save old infirm? Really? Where is the logic in that?
+- Local officials and public health officials - lock down the library and withhold data of deaths by Cause by Age - why hide simple data?  
+
 ## Who are famous medical, research and data scientists people who appear to be supporting lockdowns and healhy young people being injected
 - Nate Silver - FiveThirtyEight.com
 - 
