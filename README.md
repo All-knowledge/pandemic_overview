@@ -26,7 +26,7 @@
     - [What funding and research has been done with vaccines and nano particles](#what-funding-and-research-has-been-done-with-vaccines-and-nano-particles)
     - [What are nano particles](#what-are-nano-particles)
     - [Who was Harvard Chemistry Department Chair and nano particle expert Charles Lieber and why was he arrested](#who-was-harvard-chemistry-department-chair-and-nano-particle-expert-charles-lieber-and-why-was-he-arrested)
-  - [What is the historical background and timeline of key participants of this pandemic](#what-is-the-historical-background-and-timeline-of-key-participants-of-this-pandemic)
+- [What is the historical background and timeline of key participants of this pandemic](#what-is-the-historical-background-and-timeline-of-key-participants-of-this-pandemic)
 - [Resources and additional background material](#resources-and-additional-background-material)
 - [Knowledge vs Noise - our opinions about news and media sources](#knowledge-vs-noise---our-opinions-about-news-and-media-sources)
 - [What are media sources that we try to check every day?](#what-are-media-sources-that-we-try-to-check-every-day)
@@ -87,11 +87,15 @@
 ## Purpose: Investigate the origins of the COVID-19 pandemic
 
 # Introduction  
-- 
+- This site is full of opinion. We have collected a huge wide variety of items and we attempt to label these items as either True or False.   
+- We document why it is our opinion, our group consensus, that these items are correctly tagged as either True or False.  
+- Every item will be able to be tagged so you can either agree or disagree by you tagging the item yourself.   
+- That feature is not yet ready but you can see we are attempting to make this a community-driven collective-knowledge resource.  
+- This website will attempt to be kept up-to-date so you can learn what has changed since you last visited.  
 - 
 
 # Who we are  
-- 
+- link to contributors  
 - 
 
 # How this site is organized  
@@ -100,23 +104,23 @@
 
 # FAQ Frequently Asked Questions  
 ## What do we know?  
-- 
-- 
+- A virus has been reported.  The virus affects mainly old, infirm, and those with comorbidities - the people who typically die of the flu.  
+- The virus also appears to affect PoC more severely  
 
 ## What do we not know?  
 - 
 - 
 
 ## What are some simple questions that we think do not make any sense
-- 
-- 
+- Old infirm w/ comorbidity are dying. So Why inject young healthy of reproductive age?  
+- If the supermarket and many stores and business can be open, why not the library?  
 
 ## What items do we consider true, and why?  
-- 
+- It is completely unrealistic to believe a natural virus jumped out of a bush and caused this pandemic. This is a man-made virus.  
 - 
 
 ## What items do we consider false, and why?  
-- 
+- The virus did not come from nature. It has too many advanced gain-of-function features that scientists recently proudly documented in published papers.  
 - 
 
 ## Who are the participants, the cast members in this story?
@@ -163,7 +167,7 @@
 ### What are nano particles  
 ### Who was Harvard Chemistry Department Chair and nano particle expert Charles Lieber and why was he arrested
 
-## What is the historical background and timeline of key participants of this pandemic  
+# What is the historical background and timeline of key participants of this pandemic  
 - 
 - 
 
@@ -218,6 +222,7 @@
 # What is Eugenics and who in history has involvement  
 - 
 - 
+
 # Who is with us - who is against lockdowns and injections  
 ## Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people
 - Ian Brown (British Rocker Stone Roses and solo)
@@ -245,7 +250,6 @@
 - Madonna
 - AOC
 - 
-
 
 ## What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected
 - WBUR
