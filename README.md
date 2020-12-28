@@ -61,9 +61,9 @@
 - [Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age](#who-apparently-is-a-fascist-in-favor-of-lockdowns-and-injections-of-young-healthy-of-reproductive-age)
   - [Who are famous medical, research and data scientists people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-medical-research-and-data-scientists-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
   - [Who are news people who appear to be supporting lockdowns and healhy young people being injected](#who-are-news-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
-- [Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-media-and-entertainment-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
-- [What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected](#what-media-sources-are-untrustworty-because-they-are-encouraging-lockdowns-and-healthy-young-people-to-be-injected)
-- [What messages is the media sending that we feel are incorrect](#what-messages-is-the-media-sending-that-we-feel-are-incorrect)
+  - [Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected](#who-are-famous-media-and-entertainment-people-who-appear-to-be-supporting-lockdowns-and-healhy-young-people-being-injected)
+  - [What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected](#what-media-sources-are-untrustworty-because-they-are-encouraging-lockdowns-and-healthy-young-people-to-be-injected)
+  - [What messages is the media sending that we feel are incorrect](#what-messages-is-the-media-sending-that-we-feel-are-incorrect)
 - [How you can maintain stability and normalcy and your mental health during these trying times](#how-you-can-maintain-stability-and-normalcy-and-your-mental-health-during-these-trying-times)
   - [Dystopian Books (and sometimes movies and TV series)](#dystopian-books-and-sometimes-movies-and-tv-series)
   - [Dystopian movies and TV series](#dystopian-movies-and-tv-series)
@@ -241,13 +241,13 @@
 - TMZ  
 - Rolling Stone  
  
-# Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected
+## Who are famous media and entertainment people who appear to be supporting lockdowns and healhy young people being injected
 - Madonna
 - AOC
 - 
 
 
-# What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected
+## What media sources are untrustworty because they are encouraging lockdowns and healthy young people to be injected
 - WBUR
 - WGBH
 - Boston Globe  
@@ -260,7 +260,7 @@
 - Republican channels - Fox News, Breitbart, Steve Bannon, Pat Buchanan
 - Politico, The Hill, Axios
 
-# What messages is the media sending that we feel are incorrect
+## What messages is the media sending that we feel are incorrect
 - 
 - 
 
