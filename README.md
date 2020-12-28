@@ -15,8 +15,6 @@
   - [What role does history have to do with this pandemic](#what-role-does-history-have-to-do-with-this-pandemic)
   - [What is pathogen research, who funds it and how much?](#what-is-pathogen-research-who-funds-it-and-how-much)
   - [Why is Bill Gates seemingly involved in many parts of this story](#why-is-bill-gates-seemingly-involved-in-many-parts-of-this-story)
-  - [How is famous Jeffrey Epstein who flew famous people to have massages on islands - how is he involved?](#how-is-famous-jeffrey-epstein-who-flew-famous-people-to-have-massages-on-islands---how-is-he-involved)
-  - [Role of the Rockefeller Foundation - John D. Rockefeller owned Standard Oil and was as rich as Jeff Bezos.](#role-of-the-rockefeller-foundation---john-d-rockefeller-owned-standard-oil-and-was-as-rich-as-jeff-bezos)
   - [What was Event 201, a multi-day multi-country pandemic preparedless simulation October 2019](#what-was-event-201-a-multi-day-multi-country-pandemic-preparedless-simulation-october-2019)
   - [What was Wuhan World Military Games, a multi-day 140+ multi-country sports games held at the Wulhan bio lab October 2019](#what-was-wuhan-world-military-games-a-multi-day-140-multi-country-sports-games-held-at-the-wulhan-bio-lab-october-2019)
   - [What is the Bill and Melinda Gates Foundation and what does it fund](#what-is-the-bill-and-melinda-gates-foundation-and-what-does-it-fund)
@@ -27,24 +25,29 @@
     - [What are nano particles](#what-are-nano-particles)
     - [Who was Harvard Chemistry Department Chair and nano particle expert Charles Lieber and why was he arrested](#who-was-harvard-chemistry-department-chair-and-nano-particle-expert-charles-lieber-and-why-was-he-arrested)
 - [What is the historical background and timeline of key participants of this pandemic](#what-is-the-historical-background-and-timeline-of-key-participants-of-this-pandemic)
+  - [How is famous Jeffrey Epstein who flew famous people to have massages on islands - how is he involved?](#how-is-famous-jeffrey-epstein-who-flew-famous-people-to-have-massages-on-islands---how-is-he-involved)
+  - [Role of the Rockefeller Foundation - John D. Rockefeller owned Standard Oil and was/is as rich as Jeff Bezos.](#role-of-the-rockefeller-foundation---john-d-rockefeller-owned-standard-oil-and-wasis-as-rich-as-jeff-bezos)
 - [Resources and additional background material](#resources-and-additional-background-material)
 - [Knowledge vs Noise - our opinions about news and media sources](#knowledge-vs-noise---our-opinions-about-news-and-media-sources)
-- [What are media sources that we try to check every day?](#what-are-media-sources-that-we-try-to-check-every-day)
+  - [What are media sources that we try to check every day?](#what-are-media-sources-that-we-try-to-check-every-day)
 - [What is narrative control and how is it used to shape public opinion](#what-is-narrative-control-and-how-is-it-used-to-shape-public-opinion)
 - [Government Monitoring and Control](#government-monitoring-and-control)
   - [Social Media](#social-media)
     - [How to understand the ways Facebook filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-facebook-filters-throttles-and-amplifies-communications-here)
     - [How to understand the ways Twitter filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-twitter-filters-throttles-and-amplifies-communications-here)
     - [How to understand the ways Reddit filters, throttles and amplifies communications HERE](#how-to-understand-the-ways-reddit-filters-throttles-and-amplifies-communications-here)
+  - [Person, identity, and location tracking](#person-identity-and-location-tracking)
     - [How does ad tracking and cookies work across the web HERE](#how-does-ad-tracking-and-cookies-work-across-the-web-here)
-    - [What does Cambridge Analytica - what is that whole scandal about? HERE](#what-does-cambridge-analytica---what-is-that-whole-scandal-about-here)
+  - [What are the all-encompassing data vacuums by Palantir and Oracle and Cambridge Analytica](#what-are-the-all-encompassing-data-vacuums-by-palantir-and-oracle-and-cambridge-analytica)
+    - [What is the Palantir dashboard and who in your local area is viewing it](#what-is-the-palantir-dashboard-and-who-in-your-local-area-is-viewing-it)
+    - [What was Cambridge Analytica - what is that whole scandal about? HERE](#what-was-cambridge-analytica---what-is-that-whole-scandal-about-here)
 - [Current Events and their relationship to today's events](#current-events-and-their-relationship-to-todays-events)
     - [How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE](#how-to-recognize-typical-russian-sabotage-cause-confusion-brexit-etc-here)
     - [How to understand Brexit HERE](#how-to-understand-brexit-here)
     - [How to understand the Yellow Vests in France HERE](#how-to-understand-the-yellow-vests-in-france-here)
     - [How understand the anti-fracking protests by young people and indigenous peoples HERE](#how-understand-the-anti-fracking-protests-by-young-people-and-indigenous-peoples-here)
-    - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agraculture HERE](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agraculture-here)
-- [Economics, Fossil Fuels, Money, Power](#economics-fossil-fuels-money-power)
+    - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture HERE](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agriculture-here)
+- [Economics, Fossil Fuels, Pharma, Money, Power](#economics-fossil-fuels-pharma-money-power)
   - [What are the economic effects of lockdowns](#what-are-the-economic-effects-of-lockdowns)
   - [How does the lockdowns help and encourage large business but destroy small business](#how-does-the-lockdowns-help-and-encourage-large-business-but-destroy-small-business)
     - [What is the WEF World Economic Forum and Klaus Schwab HERE](#what-is-the-wef-world-economic-forum-and-klaus-schwab-here)
@@ -139,14 +142,6 @@
 - 
 - 
 
-## How is famous Jeffrey Epstein who flew famous people to have massages on islands - how is he involved?
-- 
-- 
-
-## Role of the Rockefeller Foundation - John D. Rockefeller owned Standard Oil and was as rich as Jeff Bezos.
-- 
-- 
-
 ## What was Event 201, a multi-day multi-country pandemic preparedless simulation October 2019
 - 
 - 
@@ -156,7 +151,6 @@
 - 
 
 ## What is the Bill and Melinda Gates Foundation and what does it fund
-
 
 
 
@@ -171,6 +165,13 @@
 - 
 - 
 
+## How is famous Jeffrey Epstein who flew famous people to have massages on islands - how is he involved?
+- 
+- 
+
+## Role of the Rockefeller Foundation - John D. Rockefeller owned Standard Oil and was/is as rich as Jeff Bezos.
+- 
+- 
 
 # Resources and additional background material    
 
@@ -178,8 +179,8 @@
 - 
 - 
 
-# What are media sources that we try to check every day?
-- 
+## What are media sources that we try to check every day?
+| News or Media Source | Comment |
 - 
 
 # What is narrative control and how is it used to shape public opinion
@@ -191,17 +192,20 @@
 ### How to understand the ways Facebook filters, throttles and amplifies communications HERE  
 ### How to understand the ways Twitter filters, throttles and amplifies communications HERE  
 ### How to understand the ways Reddit filters, throttles and amplifies communications HERE  
+## Person, identity, and location tracking
 ### How does ad tracking and cookies work across the web HERE  
-### What does Cambridge Analytica - what is that whole scandal about? HERE  
+## What are the all-encompassing data vacuums by Palantir and Oracle and Cambridge Analytica
+### What is the Palantir dashboard and who in your local area is viewing it
+### What was Cambridge Analytica - what is that whole scandal about? HERE  
 
 # Current Events and their relationship to today's events
 ### How to recognize typical Russian sabotage, cause confusion (Brexit etc) HERE  
 ### How to understand Brexit HERE  
 ### How to understand the Yellow Vests in France HERE  
 ### How understand the anti-fracking protests by young people and indigenous peoples HERE  
-### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agraculture HERE  
+### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture HERE  
 
-# Economics, Fossil Fuels, Money, Power
+# Economics, Fossil Fuels, Pharma, Money, Power
 ## What are the economic effects of lockdowns  
 ## How does the lockdowns help and encourage large business but destroy small business  
 ### What is the WEF World Economic Forum and Klaus Schwab HERE  
