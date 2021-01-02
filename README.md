@@ -92,6 +92,7 @@
     - [How to know about how the government is monitoring your Apple computer via the M2 chip](#how-to-know-about-how-the-government-is-monitoring-your-apple-computer-via-the-m2-chip)
     - [How to know about how the government is monitoring your Chromebook](#how-to-know-about-how-the-government-is-monitoring-your-chromebook)
     - [How another project 'Minimal Mistakes' guides contributors in their Pull Request process](#how-another-project-minimal-mistakes-guides-contributors-in-their-pull-request-process)
+- [License](#license)
 
 ## Purpose: Investigate the origins of the COVID-19 pandemic
 
@@ -354,3 +355,9 @@ This guide explains how and why GitHub flow works.
 - Discuss and review changes, ensure testing and style are adhered to  
 - Deploy to pre-prod or prod  
 - Merge with main branch  
+  
+  
+# License  
+The MIT License (MIT)  
+
+Copyright (c) 2020-2021 Thomas Connors and contributors  
