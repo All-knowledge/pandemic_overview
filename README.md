@@ -47,7 +47,7 @@
     - [How to recognize typical Russian sabotage, cause confusion (Brexit etc)](#how-to-recognize-typical-russian-sabotage-cause-confusion-brexit-etc)
     - [How to understand Brexit](#how-to-understand-brexit)
     - [How to understand the Yellow Vests in France](#how-to-understand-the-yellow-vests-in-france)
-    - [How understand the anti-fracking protests by young people and indigenous peoples](#how-understand-the-anti-fracking-protests-by-young-people-and-indigenous-peoples)
+    - [How understand the anti-fracking and pipeline protests by young people and indigenous peoples](#how-understand-the-anti-fracking-and-pipeline-protests-by-young-people-and-indigenous-peoples)
     - [How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture](#how-to-understand-nafta-north-american-free-trade-agreement-and-fossil-fuels-effect-on-sustainable-mexican-agriculture)
 - [Economics, Fossil Fuels, Pharma, Money, Power](#economics-fossil-fuels-pharma-money-power)
   - [What are the economic effects of lockdowns](#what-are-the-economic-effects-of-lockdowns)
@@ -58,9 +58,9 @@
     - [What is the WEF World Economic Forum relationship to vaccines](#what-is-the-wef-world-economic-forum-relationship-to-vaccines)
     - [What is the WEF World Economic Forum relationship with Bill Gates](#what-is-the-wef-world-economic-forum-relationship-with-bill-gates)
     - [What is the WEF World Economic Forum relationship with fossil fuels](#what-is-the-wef-world-economic-forum-relationship-with-fossil-fuels)
-- [What is the role of local officials and public health in the lockdowns](#what-is-the-role-of-local-officials-and-public-health-in-the-lockdowns)
-- [What is fascism and what are examples of it in the past](#what-is-fascism-and-what-are-examples-of-it-in-the-past)
-- [What is Eugenics and who in history has involvement](#what-is-eugenics-and-who-in-history-has-involvement)
+  - [What is the role of local officials and public health in the lockdowns](#what-is-the-role-of-local-officials-and-public-health-in-the-lockdowns)
+  - [What is fascism and what are examples of it in the past](#what-is-fascism-and-what-are-examples-of-it-in-the-past)
+  - [What is Eugenics and who in history has involvement](#what-is-eugenics-and-who-in-history-has-involvement)
 - [Who is with us - who is against lockdowns and injections](#who-is-with-us---who-is-against-lockdowns-and-injections)
   - [Who are famous people who are questioning the whole narriative of lockdowns and injecting young healthy people](#who-are-famous-people-who-are-questioning-the-whole-narriative-of-lockdowns-and-injecting-young-healthy-people)
 - [Who apparently is a fascist in favor of lockdowns and injections of young healthy of reproductive age](#who-apparently-is-a-fascist-in-favor-of-lockdowns-and-injections-of-young-healthy-of-reproductive-age)
@@ -91,6 +91,7 @@
     - [How to buy a $250 chromebook for an awesome development experience](#how-to-buy-a-250-chromebook-for-an-awesome-development-experience)
     - [How to know about how the government is monitoring your Apple computer via the M2 chip](#how-to-know-about-how-the-government-is-monitoring-your-apple-computer-via-the-m2-chip)
     - [How to know about how the government is monitoring your Chromebook](#how-to-know-about-how-the-government-is-monitoring-your-chromebook)
+    - [How another project 'Minimal Mistakes' guides contributors in their Pull Request process](#how-another-project-minimal-mistakes-guides-contributors-in-their-pull-request-process)
 
 ## Purpose: Investigate the origins of the COVID-19 pandemic
 
@@ -218,7 +219,7 @@
 ### How to recognize typical Russian sabotage, cause confusion (Brexit etc)   
 ### How to understand Brexit   
 ### How to understand the Yellow Vests in France   
-### How understand the anti-fracking protests by young people and indigenous peoples   
+### How understand the anti-fracking and pipeline protests by young people and indigenous peoples   
 ### How to understand NAFTA North American Free Trade Agreement and fossil fuel's effect on sustainable mexican agriculture   
 
 # Economics, Fossil Fuels, Pharma, Money, Power
@@ -232,14 +233,14 @@
 ### What is the WEF World Economic Forum relationship with fossil fuels   
 
 
-# What is the role of local officials and public health in the lockdowns  
+## What is the role of local officials and public health in the lockdowns  
 
 
-# What is fascism and what are examples of it in the past
+## What is fascism and what are examples of it in the past
 - 
 - 
 
-# What is Eugenics and who in history has involvement  
+## What is Eugenics and who in history has involvement  
 - 
 - 
 
@@ -337,5 +338,6 @@ Here are some suggestions, please add to this list:
 ### How to buy a $250 chromebook for an awesome development experience   
 ### How to know about how the government is monitoring your Apple computer via the M2 chip   
 ### How to know about how the government is monitoring your Chromebook   
-
-
+### How another project 'Minimal Mistakes' guides contributors in their Pull Request process  
+("Contributing set up, create branch, Pull Requests, GitHub Flow")[https://github.com/mmistakes/minimal-mistakes]  
+(Understanding the GitHub flow)[https://guides.github.com/introduction/flow/]  
