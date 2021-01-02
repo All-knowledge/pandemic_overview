@@ -341,3 +341,16 @@ Here are some suggestions, please add to this list:
 ### How another project 'Minimal Mistakes' guides contributors in their Pull Request process  
 ("Contributing set up, create branch, Pull Requests, GitHub Flow")[https://github.com/mmistakes/minimal-mistakes]  
 (Understanding the GitHub flow)[https://guides.github.com/introduction/flow/]  
+GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly  
+  
+This guide explains how and why GitHub flow works.  
+  
+- Main is deployable always  
+- Create a branch & Commit work on it  
+- Pull Request announces your work and opens discussion, even if you are nowhere near being ready to complete it
+- Discussions are in the activity, full markup capability  
+- @mentions to alert others  
+- a bot can do housekeeping tasks such as trim old dead stale branches  
+- Discuss and review changes, ensure testing and style are adhered to  
+- Deploy to pre-prod or prod  
+- Merge with main branch  
