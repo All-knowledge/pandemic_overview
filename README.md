@@ -210,13 +210,17 @@
 ### How to understand the ways Facebook filters, throttles and amplifies communications   
 ### How to understand the ways Twitter filters, throttles and amplifies communications   
 
+When I posted this:
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
+</b>
+
+I was shadowbanned on Twitter
 <br />  
 <img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/twitter-shadowban-example.png?raw=true" align="center" alt="twitter-shadowban-example" />
 </b>
 
-<br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
-</b>
+
 
 ### How to understand the ways Reddit filters, throttles and amplifies communications   
 ## Person, identity, and location tracking
@@ -235,6 +239,13 @@
 # Economics, Fossil Fuels, Pharma, Money, Power
 ## What are the economic effects of lockdowns  
 ## How does the lockdowns help and encourage large business but destroy small business  
+
+Here is a question I posted on Facebook, and also on Twitter
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
+</b>
+
+
 ## What is the WEF World Economic Forum and Klaus Schwab   
 ### What is the WEF World Economic Forum and this proposed / planned Great Reset   
 ### What is the WEF World Economic Forum event at Davos, who goes, anyone from my area?  
