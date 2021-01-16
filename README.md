@@ -209,6 +209,15 @@
 ## Social Media  
 ### How to understand the ways Facebook filters, throttles and amplifies communications   
 ### How to understand the ways Twitter filters, throttles and amplifies communications   
+
+<br />  
+<img width="600px" src="https://github.com/coding-to-music/battlecode2021/blob/main/assets/twitter-shadowban-example.png?raw=true" align="center" alt="twitter-shadowban-example" />
+</b>
+
+<br />  
+<img width="600px" src="https://github.com/coding-to-music/battlecode2021/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
+</b>
+
 ### How to understand the ways Reddit filters, throttles and amplifies communications   
 ## Person, identity, and location tracking
 ### How does ad tracking and cookies work across the web   
