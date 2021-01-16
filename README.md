@@ -211,11 +211,11 @@
 ### How to understand the ways Twitter filters, throttles and amplifies communications   
 
 <br />  
-<img width="600px" src="https://github.com/coding-to-music/battlecode2021/blob/main/assets/twitter-shadowban-example.png?raw=true" align="center" alt="twitter-shadowban-example" />
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/twitter-shadowban-example.png?raw=true" align="center" alt="twitter-shadowban-example" />
 </b>
 
 <br />  
-<img width="600px" src="https://github.com/coding-to-music/battlecode2021/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
 </b>
 
 ### How to understand the ways Reddit filters, throttles and amplifies communications   
