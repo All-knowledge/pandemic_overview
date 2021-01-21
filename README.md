@@ -12,7 +12,6 @@
   - [Brookline Health: Budget 2018-2021](#brookline-health-budget-2018-2021)
   - [Brookline Health: Salaries 2018-2021](#brookline-health-salaries-2018-2021)
   - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
-  - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method-1)
   - [UK virus cases hospital ICU deaths](#uk-virus-cases-hospital-icu-deaths)
   - [The WHO is recommending key changes to PCR testing.](#the-who-is-recommending-key-changes-to-pcr-testing)
   - [Public Health Department](#public-health-department)
@@ -166,13 +165,6 @@ The World Health Organization’s special envoy on COVID-19 urged world leaders 
 </b>
 
 Source: [MSN "WHO: stop using lockdowns as primary virus control method" October 10 2020](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w)
-
-
-## WHO official urges world leaders to stop using lockdowns as primary virus control method
-
-<br />  
-<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-do-not-do-lockdowns.png?raw=true" align="center" alt="WHO-do-not-do-lockdowns" />
-</b>
 
 
 ## UK virus cases hospital ICU deaths
