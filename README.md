@@ -1,10 +1,21 @@
-# drastic
+# Making Sense of the Pandemic  
 
-- [drastic](#drastic)
+- [Making Sense of the Pandemic](#making-sense-of-the-pandemic)
   - [Purpose: Investigate the origins of the COVID-19 pandemic](#purpose-investigate-the-origins-of-the-covid-19-pandemic)
 - [Introduction](#introduction)
 - [Who we are](#who-we-are)
 - [How this site is organized](#how-this-site-is-organized)
+- [Letter to the town of Brookine Massachusetts](#letter-to-the-town-of-brookine-massachusetts)
+  - [FY2021 revised budget revised budget highlights](#fy2021-revised-budget-revised-budget-highlights)
+  - [FY2021 revised budget assumptions local receipts](#fy2021-revised-budget-assumptions-local-receipts)
+  - [FY2021 revised budget dept reductions](#fy2021-revised-budget-dept-reductions)
+  - [Brookline Health: Budget 2018-2021](#brookline-health-budget-2018-2021)
+  - [Brookline Health: Salaries 2018-2021](#brookline-health-salaries-2018-2021)
+  - [Public Health Department](#public-health-department)
+    - [How many staff](#how-many-staff)
+    - [Total Spending](#total-spending)
+    - [Activities Performed](#activities-performed)
+    - [Same for Economic Development Department](#same-for-economic-development-department)
 - [FAQ Frequently Asked Questions](#faq-frequently-asked-questions)
   - [What do we know?](#what-do-we-know)
   - [What do we not know?](#what-do-we-not-know)
@@ -111,6 +122,42 @@
 # How this site is organized  
 - 
 - 
+# Letter to the town of Brookine Massachusetts   
+
+## FY2021 revised budget revised budget highlights
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-revised-budget-highlights.png?raw=true" align="center" alt="FY2021-revised-budget-revised-budget-highlights" />
+</b>
+Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.brooklinema.gov/DocumentCenter/View/21900/Revised-FY2021-Budet-Presentation-to-the-Select-Board-June-2-2020?bidId=)
+
+## FY2021 revised budget assumptions local receipts
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-assumptions-local-receipts?raw=true" align="center" alt="FY2021-revised-budget-assumptions-local-receipts" />
+</b>
+
+## FY2021 revised budget dept reductions
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-dept-reductions.png?raw=true" align="center" alt="FY2021-revised-budget-dept-reductions" />
+</b>
+
+## Brookline Health: Budget 2018-2021
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Budget-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Budget-2018-2021" />
+</b>
+
+## Brookline Health: Salaries 2018-2021
+<br />  
+<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Salaries-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Salaries-2018-2021" />
+</b>
+
+
+## Public Health Department  
+### How many staff  
+### Total Spending  
+### Activities Performed  
+### Same for Economic Development Department  
+
+
 
 # FAQ Frequently Asked Questions  
 ## What do we know?  
@@ -125,7 +172,10 @@
 - PCR "cases" indicates the presence of old inert remnants of inactive pieces of virus  
 - The PCR test replicates, amplifies, multiplies the sample X times. 30-35 cyles is good, above will give lots of false postive "cases" - but they are false positive - if the PCR test was re-run at 28 or 30 it will likely be negative.  
 - PCR testing has an interesting side effect in that the testing organization obtains your full DNA profile  
-- 
+
+This is an excellent overview of the cases issue:
+"Case rate fallacy/false positive paradox" is derived from Bayes theorem. When the incidence of a disease in a population is low, unless the test used has very high specificity, more false positives will be determined than true positives. The difference in the numbers can be quite striking and certainly not inherently understandable."
+[MedPageToday.com - Here's What's Wrong With COVID-19 Case Counts](https://www.medpagetoday.com/infectiousdisease/covid19/89522)
 
 ## What would a multi-year chart of "Deaths by Cause and Age" show us and where is that data?  
 - The CDC last updated the data in 2018 - we have no data from 2019 or 2020 - no cause of death by age.
@@ -215,7 +265,7 @@ When I posted this:
 <img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/brookline-economic-development-GIS-public-health-storefronts.png?raw=true?raw=true" align="center" alt="brookline-economic-development-GIS-public-health-storefronts" />
 </b>
 
-I was shadowbanned on Twitter
+I am constantly shadowbanned on Twitter
 <br />  
 <img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/twitter-shadowban-example.png?raw=true" align="center" alt="twitter-shadowban-example" />
 </b>
