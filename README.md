@@ -8,9 +8,11 @@
 - [Letter to the town of Brookine Massachusetts](#letter-to-the-town-of-brookine-massachusetts)
   - [FY2021 revised budget revised budget highlights](#fy2021-revised-budget-revised-budget-highlights)
   - [FY2021 revised budget assumptions local receipts](#fy2021-revised-budget-assumptions-local-receipts)
-  - [FY2021 Revised Budget: Deptartmental Reductions](#fy2021-revised-budget-deptartmental-reductions)
+  - [FY2021 Revised Budget: Departmental Reductions](#fy2021-revised-budget-departmental-reductions)
   - [Brookline Health: Budget 2018-2021](#brookline-health-budget-2018-2021)
   - [Brookline Health: Salaries 2018-2021](#brookline-health-salaries-2018-2021)
+  - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
+  - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method-1)
   - [Public Health Department](#public-health-department)
     - [How many staff](#how-many-staff)
     - [Total Spending](#total-spending)
@@ -135,7 +137,7 @@ Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.br
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-assumptions-local-receipts.png?raw=true" align="center" alt="FY2021-revised-budget-assumptions-local-receipts" />
 </b>
 
-## FY2021 Revised Budget: Deptartmental Reductions
+## FY2021 Revised Budget: Departmental Reductions
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-dept-reductions.png?raw=true" align="center" alt="FY2021-revised-budget-dept-reductions" />
 </b>
@@ -144,12 +146,24 @@ Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.br
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Budget-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Budget-2018-2021" />
 </b>
-Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.brooklinema.gov/DocumentCenter/View/21900/Revised-FY2021-Budet-Presentation-to-the-Select-Board-June-2-2020?bidId=)
+Source: [Financial Plan - Live Tracking](https://brooklinema.opengov.com/transparency#/42952/accountType=expenses&embed=n&breakdown=types&currentYearAmount=cumulative&currentYearPeriod=years&graph=bar&legendSort=coa&month=2&proration=false&saved_view=141455&selection=48FF762B5E4BCEF083F472B45A84F80F&projections=null&projectionType=null&highlighting=null&highlightingVariance=null&year=2020&selectedDataSetIndex=null&fiscal_start=earliest&fiscal_end=latest)
 
 ## Brookline Health: Salaries 2018-2021
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Salaries-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Salaries-2018-2021" />
 </b>
+
+## WHO official urges world leaders to stop using lockdowns as primary virus control method  
+The World Health Organization’s special envoy on COVID-19 urged world leaders this week to stop “using lockdowns as your primary control method.”
+“We in the World Health Organization do not advocate lockdowns as the primary means of control of this virus,” Dr. David Nabarro said to The Spectator’s Andrew Neil. “The only time we believe a lockdown is justified is to buy you time to reorganize, regroup, rebalance your resources, protect your health workers who are exhausted, but by and large, we’d rather not do it.”
+Source: [MSN "" October 10 2020](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w)
+
+## WHO official urges world leaders to stop using lockdowns as primary virus control method
+<br />  
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-Dr-David-Nabarro-dont-do-lockdowns.png?raw=true" align="center" alt="WHO-Dr-David-Nabarro-dont-do-lockdowns" />
+</b>
+
+
 
 
 ## Public Health Department  
