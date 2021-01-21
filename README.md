@@ -13,6 +13,8 @@
   - [Brookline Health: Salaries 2018-2021](#brookline-health-salaries-2018-2021)
   - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
   - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method-1)
+  - [UK virus cases hospital ICU deaths](#uk-virus-cases-hospital-icu-deaths)
+  - [The WHO is recommending some changes to PCR testing.](#the-who-is-recommending-some-changes-to-pcr-testing)
   - [Public Health Department](#public-health-department)
     - [How many staff](#how-many-staff)
     - [Total Spending](#total-spending)
@@ -130,6 +132,7 @@
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-revised-budget-highlights.png?raw=true" align="center" alt="FY2021-revised-budget-revised-budget-highlights" />
 </b>
+
 Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.brooklinema.gov/DocumentCenter/View/21900/Revised-FY2021-Budet-Presentation-to-the-Select-Board-June-2-2020?bidId=)
 
 ## FY2021 revised budget assumptions local receipts
@@ -146,6 +149,7 @@ Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.br
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Budget-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Budget-2018-2021" />
 </b>
+
 Source: [Financial Plan - Live Tracking](https://brooklinema.opengov.com/transparency#/42952/accountType=expenses&embed=n&breakdown=types&currentYearAmount=cumulative&currentYearPeriod=years&graph=bar&legendSort=coa&month=2&proration=false&saved_view=141455&selection=48FF762B5E4BCEF083F472B45A84F80F&projections=null&projectionType=null&highlighting=null&highlightingVariance=null&year=2020&selectedDataSetIndex=null&fiscal_start=earliest&fiscal_end=latest)
 
 ## Brookline Health: Salaries 2018-2021
@@ -154,9 +158,10 @@ Source: [Financial Plan - Live Tracking](https://brooklinema.opengov.com/transpa
 </b>
 
 ## WHO official urges world leaders to stop using lockdowns as primary virus control method  
-The World Health Organization’s special envoy on COVID-19 urged world leaders this week to stop “using lockdowns as your primary control method.”
-“We in the World Health Organization do not advocate lockdowns as the primary means of control of this virus,” Dr. David Nabarro said to The Spectator’s Andrew Neil. “The only time we believe a lockdown is justified is to buy you time to reorganize, regroup, rebalance your resources, protect your health workers who are exhausted, but by and large, we’d rather not do it.”
-Source: [MSN "" October 10 2020](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w)
+The World Health Organization’s special envoy on COVID-19 urged world leaders this week to stop “using lockdowns as your primary control method.”  
+“We in the World Health Organization do not advocate lockdowns as the primary means of control of this virus,” Dr. David Nabarro said to The Spectator’s Andrew Neil. “The only time we believe a lockdown is justified is to buy you time to reorganize, regroup, rebalance your resources, protect your health workers who are exhausted, but by and large, we’d rather not do it.”  
+
+Source: [MSN "WHO: stop using lockdowns as primary virus control method" October 10 2020](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w)
 
 
 ## WHO official urges world leaders to stop using lockdowns as primary virus control method
@@ -169,6 +174,22 @@ Source: [MSN "" October 10 2020](https://www.msn.com/en-us/health/medical/who-of
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-do-not-do-lockdowns.png?raw=true" align="center" alt="WHO-do-not-do-lockdowns" />
 </b>
 
+
+## UK virus cases hospital ICU deaths
+<br />  
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/virus-cases-hospital-ICU-deaths.jpeg?raw=true" align="center" alt="virus cases hospital ICU deaths" />
+</b>
+Source: [Twitter  October 10 2020]()
+
+
+## The WHO is recommending some changes to PCR testing.  
+The WHO is recommending some changes to PCR testing.  
+PCR positive is no longer = Covid.  
+You are not Covid now unless you get a second test to confirm it, and are presenting clinical symptoms.  
+WHO guidance Diagnostic testing for SARS-CoV-2 states that careful interpretation of weak positive results is needed (1). The cycle threshold (Ct) needed to detect virus is inversely proportional to the patient’s viral load. Where test results do not correspond with the clinical presentation, a new specimen should be taken and retested using the same or different NAT technology.  
+
+WHO reminds IVD users that **disease prevalence alters the predictive value of test results**; *as disease prevalence decreases, the risk of false positive increases (2). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.*  
+Source: [WHO requests users to follow the instructions for use (IFU) when interpreting results for specimens tested using PCR methodology. January 20 2021](https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05)
 
 
 ## Public Health Department  
