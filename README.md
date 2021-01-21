@@ -158,9 +158,11 @@ The World Health Organization’s special envoy on COVID-19 urged world leaders 
 “We in the World Health Organization do not advocate lockdowns as the primary means of control of this virus,” Dr. David Nabarro said to The Spectator’s Andrew Neil. “The only time we believe a lockdown is justified is to buy you time to reorganize, regroup, rebalance your resources, protect your health workers who are exhausted, but by and large, we’d rather not do it.”
 Source: [MSN "" October 10 2020](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w)
 
+Source: (MSN "" October 10 2020)[https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo?fbclid=IwAR2ErYb8DhCy3tGuMj8DdolYhmbftMKCfCLEYPW1qT4PCt7uSK9nqnkgx0w]
+
 ## WHO official urges world leaders to stop using lockdowns as primary virus control method
 <br />  
-<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-Dr-David-Nabarro-dont-do-lockdowns.png?raw=true" align="center" alt="WHO-Dr-David-Nabarro-dont-do-lockdowns" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-Dr-David-Nabarro-dont-do-lockdowns.jpeg?raw=true" align="center" alt="WHO-Dr-David-Nabarro-dont-do-lockdowns" />
 </b>
 
 
