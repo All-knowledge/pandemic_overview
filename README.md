@@ -5,6 +5,12 @@
 - [Introduction](#introduction)
 - [Who we are](#who-we-are)
 - [How this site is organized](#how-this-site-is-organized)
+- [Useful charts when reviewing this pandemic](#useful-charts-when-reviewing-this-pandemic)
+  - [Flu vs. Covid 1916 to December 2020](#flu-vs-covid-1916-to-december-2020)
+  - [WHO 2020 Global flu counts](#who-2020-global-flu-counts)
+  - [Deaths per week USA 2015-2020](#deaths-per-week-usa-2015-2020)
+  - [UK daily deaths 2015-2020](#uk-daily-deaths-2015-2020)
+  - [CDC survival rates by age September 2020](#cdc-survival-rates-by-age-september-2020)
 - [Letter to the town of Brookine Massachusetts](#letter-to-the-town-of-brookine-massachusetts)
   - [FY2021 revised budget revised budget highlights](#fy2021-revised-budget-revised-budget-highlights)
   - [FY2021 revised budget assumptions local receipts](#fy2021-revised-budget-assumptions-local-receipts)
@@ -125,6 +131,28 @@
 # How this site is organized  
 - 
 - 
+# Useful charts when reviewing this pandemic  
+## Flu vs. Covid 1916 to December 2020  
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Flu vs. Covid 1916 to December 2020" />
+</b>
+
+## WHO 2020 Global flu counts   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/WHO-2020-Global-flu-counts.jpeg?raw=true" align="center" alt="WHO 2020 Global flu counts" />
+</b>
+
+## Deaths per week USA 2015-2020   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/deaths-per-week-USA-2015-2020.png?raw=true" align="center" alt="Deaths per week USA 2015-2020" />
+</b>
+
+## UK daily deaths 2015-2020   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/UK-daily-deaths-2015-2020-large.jpeg?raw=true" align="center" alt="UK daily deaths 2015-2020" />
+</b>
+
+## CDC survival rates by age September 2020  
+<img width="600px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/CDC-survival-rates-by-age-September-2020.jpeg?raw=true" align="center" alt="deaths-per-week-USA-2015-2020" />
+</b>
+
+
 # Letter to the town of Brookine Massachusetts   
 
 ## FY2021 revised budget revised budget highlights
