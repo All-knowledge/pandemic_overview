@@ -14,7 +14,7 @@
   - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
   - [WHO official urges world leaders to stop using lockdowns as primary virus control method](#who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method-1)
   - [UK virus cases hospital ICU deaths](#uk-virus-cases-hospital-icu-deaths)
-  - [The WHO is recommending some changes to PCR testing.](#the-who-is-recommending-some-changes-to-pcr-testing)
+  - [The WHO is recommending key changes to PCR testing.](#the-who-is-recommending-key-changes-to-pcr-testing)
   - [Public Health Department](#public-health-department)
     - [How many staff](#how-many-staff)
     - [Total Spending](#total-spending)
@@ -179,16 +179,24 @@ Source: [MSN "WHO: stop using lockdowns as primary virus control method" October
 <br />  
 <img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/virus-cases-hospital-ICU-deaths.jpeg?raw=true" align="center" alt="virus cases hospital ICU deaths" />
 </b>
-Source: [Twitter  October 10 2020]()
+
+Source: [Twitter Christina Pagel @chrischirp Jan 16, 2021](https://twitter.com/chrischirp/status/1350416441498079234)
 
 
-## The WHO is recommending some changes to PCR testing.  
-The WHO is recommending some changes to PCR testing.  
-PCR positive is no longer = Covid.  
-You are not Covid now unless you get a second test to confirm it, and are presenting clinical symptoms.  
+## The WHO is recommending key changes to PCR testing.    
+The WHO is recommending some changes to PCR testing.    
+
+"PCR positive" is no longer a Covid "case"      
+
+You are not Covid "case" now unless you get a second test to confirm it, and are presenting clinical symptoms.  
 WHO guidance Diagnostic testing for SARS-CoV-2 states that careful interpretation of weak positive results is needed (1). The cycle threshold (Ct) needed to detect virus is inversely proportional to the patient’s viral load. Where test results do not correspond with the clinical presentation, a new specimen should be taken and retested using the same or different NAT technology.  
 
-WHO reminds IVD users that **disease prevalence alters the predictive value of test results**; *as disease prevalence decreases, the risk of false positive increases (2). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.*  
+WHO reminds IVD users that **disease prevalence alters the predictive value of test results**; *as disease prevalence decreases, the risk of false positive increases (2). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.*    
+
+<br />  
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/WHO-Jan-20-2021-PCR-changes.png?raw=true" align="center" alt="WHO Jan 20 2021 PCR changes" />
+</b>
+
 Source: [WHO requests users to follow the instructions for use (IFU) when interpreting results for specimens tested using PCR methodology. January 20 2021](https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05)
 
 
