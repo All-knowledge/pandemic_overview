@@ -8,7 +8,7 @@
 - [Letter to the town of Brookine Massachusetts](#letter-to-the-town-of-brookine-massachusetts)
   - [FY2021 revised budget revised budget highlights](#fy2021-revised-budget-revised-budget-highlights)
   - [FY2021 revised budget assumptions local receipts](#fy2021-revised-budget-assumptions-local-receipts)
-  - [FY2021 revised budget dept reductions](#fy2021-revised-budget-dept-reductions)
+  - [FY2021 Revised Budget: Deptartmental Reductions](#fy2021-revised-budget-deptartmental-reductions)
   - [Brookline Health: Budget 2018-2021](#brookline-health-budget-2018-2021)
   - [Brookline Health: Salaries 2018-2021](#brookline-health-salaries-2018-2021)
   - [Public Health Department](#public-health-department)
@@ -126,28 +126,29 @@
 
 ## FY2021 revised budget revised budget highlights
 <br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-revised-budget-highlights.png?raw=true" align="center" alt="FY2021-revised-budget-revised-budget-highlights" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-revised-budget-highlights.png?raw=true" align="center" alt="FY2021-revised-budget-revised-budget-highlights" />
 </b>
 Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.brooklinema.gov/DocumentCenter/View/21900/Revised-FY2021-Budet-Presentation-to-the-Select-Board-June-2-2020?bidId=)
 
 ## FY2021 revised budget assumptions local receipts
 <br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-assumptions-local-receipts?raw=true" align="center" alt="FY2021-revised-budget-assumptions-local-receipts" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-assumptions-local-receipts.png?raw=true" align="center" alt="FY2021-revised-budget-assumptions-local-receipts" />
 </b>
 
-## FY2021 revised budget dept reductions
+## FY2021 Revised Budget: Deptartmental Reductions
 <br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-dept-reductions.png?raw=true" align="center" alt="FY2021-revised-budget-dept-reductions" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/FY2021-revised-budget-dept-reductions.png?raw=true" align="center" alt="FY2021-revised-budget-dept-reductions" />
 </b>
 
 ## Brookline Health: Budget 2018-2021
 <br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Budget-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Budget-2018-2021" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Budget-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Budget-2018-2021" />
 </b>
+Source: [FY 2021 Revised Budget Presentation to the Select Board](https://www.brooklinema.gov/DocumentCenter/View/21900/Revised-FY2021-Budet-Presentation-to-the-Select-Board-June-2-2020?bidId=)
 
 ## Brookline Health: Salaries 2018-2021
 <br />  
-<img width="600px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Salaries-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Salaries-2018-2021" />
+<img width="800px" src="https://github.com/All-knowledge/pandemic_overview/blob/main/assets/Brookline/Brookline-Health-Salaries-2018-2021.png?raw=true" align="center" alt="Brookline-Health-Salaries-2018-2021" />
 </b>
 
 
