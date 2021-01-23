@@ -25,6 +25,8 @@
     - [Total Spending](#total-spending)
     - [Activities Performed](#activities-performed)
     - [Same for Economic Development Department](#same-for-economic-development-department)
+- [Comments about various suggested / recommended / not-recommended Covid virus treatments](#comments-about-various-suggested--recommended--not-recommended-covid-virus-treatments)
+  - [Ivermectin](#ivermectin)
 - [FAQ Frequently Asked Questions](#faq-frequently-asked-questions)
   - [What do we know?](#what-do-we-know)
   - [What do we not know?](#what-do-we-not-know)
@@ -225,6 +227,29 @@ Source: [WHO requests users to follow the instructions for use (IFU) when interp
 ### Total Spending  
 ### Activities Performed  
 ### Same for Economic Development Department  
+
+# Comments about various suggested / recommended / not-recommended Covid virus treatments  
+## Ivermectin  
+
+Ivermectin, the most promising COVID treatment to date, won its developers the Nobel Prize in Medicine in 2015 and a place on the World Health Organization’s Model List of Essential Medicines. Since the 1980s, with billions of doses given  
+Source: [Trial Site News, By Mary Beth Pfeiffer, December 27 2020 : In Far-Flung Places, COVID-19 Is Being Treated Early And Well. Here’s Why Americans Don’t Know This.](https://trialsitenews.com/in-far-flung-places-covid-19-is-being-treated-early-and-well-heres-why-americans-dont-know-this/) 
+
+Cheap hair lice drug may cut the risk of hospitalised Covid patients dying by up to 80%, study finds  
+Ivermectin - which can cost as little as £1.50 per treatment- was also found to potentially halve the time those suffering from the virus were on the ward  
+Ivermectin was discovered in the 1970s and has fast become an essential medicine for a vast number of parasitic infections, such as head lice and scabies.
+
+It is branded as Stromectol, an oral tablet for scabies and Soolantra, a skin cream for rosacea. It is branded as Sklice for treating head lice, which was approved in the US this year. 
+
+Today it is prescribed on the NHS and in the US for these conditions, but some scientists argue it could also be useful against Covid-19.    
+Source: [UK Daily Mail, By Luke Andrews](https://www.dailymail.co.uk/news/article-9110301/Cheap-hair-lice-drug-cut-risk-hospitalised-Covid-patients-dying-80-study-finds.html) 
+
+The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with non-severe COVID-19: A pilot, double-blind, placebo-controlled, randomized clinical trial  
+Source: [The Lancet: The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with non-severe COVID-19: A pilot, double-blind, placebo-controlled, randomized clinical trial](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30464-8/fulltext) 
+Published: January 19, 2021
+
+“Several studies show you can grow the virus in a test tube and then kill it off with high doses of various drugs we already have
+Innocuous FDA-approved drug like ivermectin at five or ten times the normal doses, of course you’re going to have toxicity”  
+Source: []() 
 
 
 
