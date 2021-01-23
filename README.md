@@ -452,6 +452,14 @@ Here is a question I posted on Facebook, and also on Twitter
 | ---- |---- |---- |  
 | 12 Monkey's | who | why |  
 
+Love, Death and Robots
+love-death-and-robots-zima-blueImage via Netflix
+Created by: Tim Miller
+
+Executive produced by Tim Miller (Deadpool) and legendary filmmaker David Fincher, the animated anthology series Love, Death & Robots is kind of the perfect catch-all for sci-fi fans. Each episode hails from a different writer and director, and the theme holding them all together is the idea of sci-fi technology. As a result you get a wide range of tone from uber-violent to romantic to hysterically funny. All in all, though, there’s just some really great sci-fi storytelling in here. – Adam Chitwood
+
+[Watch *Love, Death & Robots* Here](https://www.netflix.com/title/80174608)
+
 ## What famous people had words of wisdom we might want to review today  
 
 
