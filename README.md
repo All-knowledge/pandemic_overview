@@ -1,7 +1,5 @@
-# Making Sense of the Pandemic  
+<h1> Making Sense of the Pandemic</h1>  
 
-- [Making Sense of the Pandemic](#making-sense-of-the-pandemic)
-  - [Purpose: Investigate the origins of the COVID-19 pandemic](#purpose-investigate-the-origins-of-the-covid-19-pandemic)
 - [Introduction](#introduction)
 - [Who we are](#who-we-are)
 - [How this site is organized](#how-this-site-is-organized)
